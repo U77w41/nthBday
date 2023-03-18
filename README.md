@@ -13,7 +13,7 @@ To install using pip, use
 
 `pip install nthBday`
 
-[![Downloads](https://static.pepy.tech/personalized-badge/nthbday?period=month&units=abbreviation&left_color=black&right_color=blue&left_text=Downloads)](https://pepy.tech/project/nthbday)
+[![Downloads](https://static.pepy.tech/badge/nthbday/month)](https://pepy.tech/project/nthbday)
 
 ## Features 
 
